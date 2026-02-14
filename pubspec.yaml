@@ -1,0 +1,29 @@
+name: customizable_bottom_sheet
+description: A highly customizable Flutter bottom sheet with built-in search functionality, perfect for item selection, country pickers, and searchable lists.
+version: 1.0.0
+# TODO: Update with your GitHub repository before publishing
+# homepage: https://github.com/DhananjayaFdo/customizable_bottom_sheet
+# repository: https://github.com/DhananjayaFdo/customizable_bottom_sheet
+# issue_tracker: https://github.com/DhananjayaFdo/customizable_bottom_sheet/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+topics:
+  - bottom-sheet
+  - search
+  - searchable
+  - picker
+  - selection
+  - widget
+  - ui
